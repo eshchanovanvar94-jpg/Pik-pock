@@ -1,3 +1,4 @@
+
 # 🎮 Pik-Pock
 
 Python dasturlash tilida yozilgan mini o'yinlar to'plami.
@@ -18,4 +19,10 @@ python pik-pock.py
 
 ## 👨‍💻 Muallif
 
-**Zohid**
+Zohid
+📌 Version: 1.0
+🚀 Kelajakda qo'shiladigan o'yinlar:
+- Hangman
+- Snake
+- Sudoku
+- Blackjack
