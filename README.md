@@ -26,3 +26,14 @@ Zohid
 - Snake
 - Sudoku
 - Blackjack
+# 🎮 Pik-Pock
+
+A collection of mini games written in Python.
+
+## Games
+- Rock Paper Scissors
+- Number Guessing
+- Tic-Tac-Toe
+- Calculator
+- Coin Flip
+- Dice Roll
